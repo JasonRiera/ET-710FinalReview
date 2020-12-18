@@ -1,13 +1,13 @@
 
 .simple-article-header {
-  background: #fefefe;
+  background: #dbe0bd;
   padding: 1.3rem 2rem .7rem;
   border: 1px solid #cacaca;
   margin-bottom: 1rem;
 }
 
 .simple-article-header .article-date-read {
-  color: #8a8a8a;
+  color: #6313f8;
 }
 
 .simple-article-header .article-title {
@@ -15,19 +15,19 @@
 }
 
 .simple-article-header .article-title a {
-  color: #0a0a0a;
+  color: #cc0707;
 }
 
 .simple-article-header .article-title a:hover, .simple-article-header .article-title a:focus {
-  color: #1779ba;
+  color: #ef8cf8;
 }
 
 .simple-article-header .article-author-comments a.article-comments {
-  color: #8a8a8a;
+  color: #80f7f7;
 }
 
 .simple-article-header .article-author-comments a.article-comments:hover, .simple-article-header .article-author-comments a.article-comments:focus {
-  color: #1779ba;
+  color: #9790fa;
 }
 
 .simple-article-header .article-date-read,
