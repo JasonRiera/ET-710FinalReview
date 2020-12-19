@@ -74,10 +74,10 @@ label {
   display: inline-flex;
   align-items: center;
   padding: 8px 16px;
-  border-radius: 5px;
+  border-radius: 6px;
   font-size: 16px;
   cursor: pointer;
-  background-color: #87cac5;
+  background-color: #e9399a;
   color: white;
   border: none;
 }
